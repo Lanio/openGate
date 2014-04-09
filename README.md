@@ -8,5 +8,5 @@
 <h1>Setup</h1>
 openGate automatically detects your groups structure and displays results accordingly.  openGate is capable of using up to 3 levels of depth in its hierarchy.  Once openGate is installed,
 test it to see if your groups are set up correctly or if they will need tweaking to be compatible with openGate.
-<br /><br />
+<br /><hr /><br />
 More information can be found at http://www.freshwaterbytes.com/opengate
