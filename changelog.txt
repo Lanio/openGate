@@ -1,0 +1,4 @@
+openGate Change Log
+Version 3.1 | April 9, 2014
+
+1) Ability to add people to list in any eligible group (previously only listed groups if people in those groups were already in list)

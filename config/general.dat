@@ -1,0 +1,4 @@
+require_access_code=yes
+numeric_access_code=23
+show_closed_occurrences=yes
+admin_password=test
